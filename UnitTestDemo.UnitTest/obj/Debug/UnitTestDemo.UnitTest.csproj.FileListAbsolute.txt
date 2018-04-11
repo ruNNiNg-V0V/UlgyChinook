@@ -1,0 +1,17 @@
+D:\VR\readable\sources\CSharp\UnitTestDemo\UnitTestDemo.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\VR\readable\sources\CSharp\UnitTestDemo\UnitTestDemo.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\VR\readable\sources\CSharp\UnitTestDemo\UnitTestDemo.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\VR\readable\sources\CSharp\UnitTestDemo\UnitTestDemo.UnitTest\bin\Debug\UnitTestDemo.UnitTest.dll
+D:\VR\readable\sources\CSharp\UnitTestDemo\UnitTestDemo.UnitTest\bin\Debug\UnitTestDemo.UnitTest.pdb
+D:\VR\readable\sources\CSharp\UnitTestDemo\UnitTestDemo.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\VR\readable\sources\CSharp\UnitTestDemo\UnitTestDemo.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\VR\readable\sources\CSharp\UnitTestDemo\UnitTestDemo.UnitTest\bin\Debug\UnitTestDemo.exe
+D:\VR\readable\sources\CSharp\UnitTestDemo\UnitTestDemo.UnitTest\bin\Debug\UnitTestDemo.pdb
+D:\VR\readable\sources\CSharp\UnitTestDemo\UnitTestDemo.UnitTest\bin\Debug\UnitTestDemo.exe.config
+D:\VR\readable\sources\CSharp\UnitTestDemo\UnitTestDemo.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\VR\readable\sources\CSharp\UnitTestDemo\UnitTestDemo.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\VR\readable\sources\CSharp\UnitTestDemo\UnitTestDemo.UnitTest\obj\Debug\UnitTestDemo.UnitTest.csprojResolveAssemblyReference.cache
+D:\VR\readable\sources\CSharp\UnitTestDemo\UnitTestDemo.UnitTest\obj\Debug\UnitTestDemo.UnitTest.csproj.CoreCompileInputs.cache
+D:\VR\readable\sources\CSharp\UnitTestDemo\UnitTestDemo.UnitTest\obj\Debug\UnitTestDemo.UnitTest.csproj.CopyComplete
+D:\VR\readable\sources\CSharp\UnitTestDemo\UnitTestDemo.UnitTest\obj\Debug\UnitTestDemo.UnitTest.dll
+D:\VR\readable\sources\CSharp\UnitTestDemo\UnitTestDemo.UnitTest\obj\Debug\UnitTestDemo.UnitTest.pdb

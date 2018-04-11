@@ -1,0 +1,7 @@
+D:\VR\readable\sources\CSharp\UnitTestDemo\UnitTestDemo\bin\Debug\UnitTestDemo.exe.config
+D:\VR\readable\sources\CSharp\UnitTestDemo\UnitTestDemo\bin\Debug\UnitTestDemo.exe
+D:\VR\readable\sources\CSharp\UnitTestDemo\UnitTestDemo\bin\Debug\UnitTestDemo.pdb
+D:\VR\readable\sources\CSharp\UnitTestDemo\UnitTestDemo\obj\Debug\UnitTestDemo.csproj.CoreCompileInputs.cache
+D:\VR\readable\sources\CSharp\UnitTestDemo\UnitTestDemo\obj\Debug\UnitTestDemo.exe
+D:\VR\readable\sources\CSharp\UnitTestDemo\UnitTestDemo\obj\Debug\UnitTestDemo.pdb
+D:\VR\readable\sources\CSharp\UnitTestDemo\UnitTestDemo\obj\Debug\UnitTestDemo.csprojResolveAssemblyReference.cache
