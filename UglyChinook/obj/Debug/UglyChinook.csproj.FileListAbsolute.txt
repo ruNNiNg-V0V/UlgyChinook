@@ -1,0 +1,7 @@
+c:\users\thkim\source\repos\UglyChinook\UglyChinook\bin\Debug\UglyChinook.exe.config
+c:\users\thkim\source\repos\UglyChinook\UglyChinook\bin\Debug\UglyChinook.exe
+c:\users\thkim\source\repos\UglyChinook\UglyChinook\bin\Debug\UglyChinook.pdb
+c:\users\thkim\source\repos\UglyChinook\UglyChinook\obj\Debug\UglyChinook.csprojResolveAssemblyReference.cache
+c:\users\thkim\source\repos\UglyChinook\UglyChinook\obj\Debug\UglyChinook.csproj.CoreCompileInputs.cache
+c:\users\thkim\source\repos\UglyChinook\UglyChinook\obj\Debug\UglyChinook.exe
+c:\users\thkim\source\repos\UglyChinook\UglyChinook\obj\Debug\UglyChinook.pdb
